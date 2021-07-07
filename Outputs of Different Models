@@ -1,0 +1,13 @@
+
+
+=> Leniar Regressor Model
+    Mean 4.821509949476682
+    Standard Deviation of CV : 1.0377679668807676
+
+=> Decision Tree Model
+    Mean 4.47865434267929
+    Standard Deviation of CV : 1.3743129194427794
+
+=> Random Forest Regressor Model
+    Mean 3.1751739950287003
+    Standard Deviation of CV : 0.8652592058546844
